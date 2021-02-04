@@ -1,0 +1,8 @@
+C:\Users\hieut\source\repos\CompanyEmployees\ActionFilters\bin\Debug\netcoreapp3.1\ActionFilters.deps.json
+C:\Users\hieut\source\repos\CompanyEmployees\ActionFilters\bin\Debug\netcoreapp3.1\ActionFilters.dll
+C:\Users\hieut\source\repos\CompanyEmployees\ActionFilters\obj\Debug\netcoreapp3.1\ActionFilters.csprojAssemblyReference.cache
+C:\Users\hieut\source\repos\CompanyEmployees\ActionFilters\obj\Debug\netcoreapp3.1\ActionFilters.AssemblyInfoInputs.cache
+C:\Users\hieut\source\repos\CompanyEmployees\ActionFilters\obj\Debug\netcoreapp3.1\ActionFilters.AssemblyInfo.cs
+C:\Users\hieut\source\repos\CompanyEmployees\ActionFilters\bin\Debug\netcoreapp3.1\ActionFilters.pdb
+C:\Users\hieut\source\repos\CompanyEmployees\ActionFilters\obj\Debug\netcoreapp3.1\ActionFilters.dll
+C:\Users\hieut\source\repos\CompanyEmployees\ActionFilters\obj\Debug\netcoreapp3.1\ActionFilters.pdb

@@ -1,0 +1,6 @@
+2021-02-01 15:03:33.6228 ERROR Invalid model state for the EmployeeForCreationDto object
+2021-02-01 15:18:10.2984 ERROR Invalid model state for the EmployeeForUpdateDto object
+2021-02-01 15:18:21.6574 ERROR EmployeeForUpdateDto object sent from client is null.
+2021-02-01 15:18:25.5891 ERROR Invalid model state for the EmployeeForUpdateDto object
+2021-02-01 15:22:17.1179 ERROR Invalid model state for the patch document
+2021-02-01 15:23:44.0749 ERROR Invalid model state for the patch document
